@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import noneInBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-none-in-by@esm/index.mjs';
+import noneInBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-none-in-by@v0.1.0-esm/index.mjs';
 ```
 
 #### noneInBy( object, predicate\[, thisArg ] )
@@ -195,7 +195,7 @@ var mean = context.sum / context.count;
 <body>
 <script type="module">
 
-import noneInBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-none-in-by@esm/index.mjs';
+import noneInBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-none-in-by@v0.1.0-esm/index.mjs';
 
 function isUnderage( age ) {
     return age < 18;
