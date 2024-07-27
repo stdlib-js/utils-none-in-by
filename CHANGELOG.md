@@ -2,9 +2,9 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
+<section class="release" id="v0.1.1">
 
-## Unreleased (2024-07-07)
+## 0.1.1 (2024-07-27)
 
 <section class="commits">
 
@@ -58,7 +58,7 @@ A total of 2 people contributed to this release. Thank you to the following cont
 
 <details>
 
--   [`d40dbaf`](https://github.com/stdlib-js/stdlib/commit/d40dbafc25e3e10c8fa83f5b4203db97c289823c) - **chore:** update package meta data [(##1812)](#1812) _(by stdlib-bot)_
+-   [`d40dbaf`](https://github.com/stdlib-js/stdlib/commit/d40dbafc25e3e10c8fa83f5b4203db97c289823c) - **chore:** update package meta data [(#1812)](https://github.com/stdlib-js/stdlib/pull/1812) _(by stdlib-bot)_
 -   [`c9e1623`](https://github.com/stdlib-js/stdlib/commit/c9e1623e7c116d0d0afdf80dc22b19af81b3346b) - **feat:** add `utils/none-in-by` _(by AgPriyanshu18, Philipp Burckhardt)_
 
 </details>
